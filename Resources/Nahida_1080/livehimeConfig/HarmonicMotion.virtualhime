@@ -1,0 +1,13 @@
+{
+  "OnUse": true,
+  "Configs": [
+    {
+      "DisplayName": "",
+      "Generator": {
+        "OnUse": true,
+        "CycleTime": 3.0
+      },
+      "Map": []
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+# Live2D Desktop Girl - 热键映射配置文件
+# 自动生成于: 2024-12-19 17:40:15
+# 当前模型: Resources/Nahida_1080
+
+========== Resources/Nahida_1080 热键映射 ==========
+
+  A -> shy_normal (shy_normal.exp3.json)
+  E -> StarEye (StarEye.exp3.json)
+  N1 -> Wink (Wink.exp3.json)
+  N2 -> Happy1 (Happy1.exp3.json)
+  N3 -> Sad1 (Sad1.exp3.json)
+  N4 -> Sad2 (Sad2.exp3.json)
+  Q -> HandChange (HandChange.exp3.json)
+  R -> Halfeyes (Halfeyes.exp3.json)
+  S -> kusa (kusa.exp3.json)
+  W -> mouthchange (mouthchange.exp3.json)
+
+==============================================
+
+# 使用说明:
+# - 按对应的键即可触发表情动作
+# - 按 ESC 键触发随机表情
+# - 按 F12 键切换对话框位置调试模式开/关
+# - 右键点击模型可切换窗口边框显示/隐藏
+# - 修改 config.json 中的 modelName 可切换不同模型
+
+# 对话框功能:
+# - 有边框模式下，底部显示对话框
+# - 对话框位置每秒自动调整一次
+# - isReacted=true 时显示对话框，false 时隐藏
+# - 发送消息后自动写入 ./contact/in.txt 

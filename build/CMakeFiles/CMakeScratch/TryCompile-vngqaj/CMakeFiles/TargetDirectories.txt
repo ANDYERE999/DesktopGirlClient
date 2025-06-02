@@ -1,0 +1,3 @@
+D:/project/DesktopGirlMinGW/build/CMakeFiles/CMakeScratch/TryCompile-vngqaj/CMakeFiles/cmTC_bd6a2.dir
+D:/project/DesktopGirlMinGW/build/CMakeFiles/CMakeScratch/TryCompile-vngqaj/CMakeFiles/edit_cache.dir
+D:/project/DesktopGirlMinGW/build/CMakeFiles/CMakeScratch/TryCompile-vngqaj/CMakeFiles/rebuild_cache.dir
